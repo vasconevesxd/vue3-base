@@ -1,7 +1,7 @@
 <script setup></script>
 <template>
   <main>
-    <div>
+    <div class="mt-2 md:w-96 m-auto">
       <label class="block text-sm font-medium leading-6 text-gray-900">Cover photo</label>
       <div
         class="mt-2 flex justify-center rounded-md border-2 border-dashed border-gray-300 px-6 pt-5 pb-6">
